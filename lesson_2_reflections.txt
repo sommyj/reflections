@@ -1,16 +1,23 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	when i initialize a repository i notice that it initializes an empty git repository in the folder. i need to do it to be able to commit my files and
+	when i initialize a repository i notice that it initializes an empty git 
+	repository in the folder. i need to do it to be able to commit my files and
 	to track down the history of my files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	staging area is where you add the files you want to commit while working directory contains the files that are committed.
+	staging area is where you add the files you want to commit while working 
+	directory contains the original files that may have or not been added to the 
+	staging area.
 	The value i think it offers is the ability to select the you want to commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	You can use the staging area to make sure you have one commit per logical 
+	change by adding one file from the working directory to the staging area and
+	then commiting it.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
