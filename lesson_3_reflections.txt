@@ -33,9 +33,18 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    -It would be easier to collaborate without using Git or GitHub if you don't 
+	 have internet access and also if u are not familiar with Git or Github.
+	-It would be harder to collaborate without using Git or GitHub when you are 
+	 far away from your team members, when you want an organized and 
+	 well detailed work and also when you need to use a project from Github as a
+	 reference or guildline to your work.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The benefits each approch have are:
+	-you can break u code without the fear of lossing it.
+	-you can experiment on u project in another branch to try out something new
+	-you can create an alternative way for the app u are building eg. like an 
+	 easy mode in terms of a game app.
